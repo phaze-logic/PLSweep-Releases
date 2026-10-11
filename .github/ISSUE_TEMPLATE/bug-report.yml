@@ -1,0 +1,55 @@
+name: Bug report
+description: Report a reproducible PL Sweep problem.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Use SECURITY.md for vulnerabilities. Redact personal paths and data; do not attach registry backups or browser databases."
+  - type: input
+    id: app-version
+    attributes:
+      label: PL Sweep version
+      description: Copy the version shown in the app.
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version and architecture
+      placeholder: Windows 11, x64, version/build
+    validations:
+      required: true
+  - type: dropdown
+    id: elevation
+    attributes:
+      label: How was the app launched?
+      options:
+        - Normally, without administrator elevation
+        - Run as administrator
+        - Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps and selected options
+      description: Include the affected feature and the steps to reproduce.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Redacted warnings or screenshots
+      description: Share only relevant, non-sensitive evidence.

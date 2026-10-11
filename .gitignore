@@ -1,0 +1,21 @@
+# Release installers are uploaded as GitHub Release assets.
+*.exe
+*.msi
+*.dll
+*.pdb
+*.zip
+*.7z
+*.pfx
+*.p12
+*.key
+.env
+.env.*
+artifacts/
+bin/
+obj/
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store

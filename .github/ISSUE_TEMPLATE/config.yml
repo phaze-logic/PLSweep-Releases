@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation and troubleshooting
+    url: https://github.com/phaze-logic/PLSweep-Releases/blob/main/docs/README.md
+    about: Read installation, usage, privacy, and troubleshooting guides.
+  - name: Report a security vulnerability privately
+    url: https://github.com/phaze-logic/PLSweep-Releases/blob/main/SECURITY.md
+    about: Use the private email contact; do not post vulnerability details in issues.
