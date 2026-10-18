@@ -4,9 +4,9 @@ Start with the Activity Log and the exact operation that reported a warning. A c
 
 ## No release or update available
 
-There is currently no public release. An update-check message saying no public release is available is expected until one is published.
+[PL Sweep 0.5.1](https://github.com/phaze-logic/PLSweep-Releases/releases/tag/v0.5.1) is the latest stable public release. An installed 0.5.1 build should report that it is up to date. If an older build reports no public release, check network access and the release page, then retry.
 
-Once releases exist, an update needs both `PLSweep-Setup-X.Y.Z.exe` and `PLSweep-Setup-X.Y.Z.exe.sha256` on the matching `vX.Y.Z` release. Missing assets or a checksum mismatch must be resolved before installing. Do not bypass verification. For connection failures, check network access and try again later; report recurring errors through [Support](../SUPPORT.md).
+An update needs both `PLSweep-Setup-X.Y.Z.exe` and `PLSweep-Setup-X.Y.Z.exe.sha256` on the matching `vX.Y.Z` release. Missing assets or a checksum mismatch must be resolved before installing. Do not bypass verification. For connection failures, check network access and try again later; report recurring errors through [Support](../SUPPORT.md).
 
 ## Setup or shortcut problems
 

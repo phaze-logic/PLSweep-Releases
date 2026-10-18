@@ -2,7 +2,7 @@
 
 PL Sweep is a Windows 11 x64 utility from PhaZe Logic Studios for reviewing cleanup candidates before approving changes.
 
-This public repository contains release information and user documentation. Application source remains private. **No public release is available yet.** The guides describe the application and the installation process to use when a release is published; they do not announce an available installer.
+This public repository contains release information and user documentation. Application source remains private. **[PL Sweep 0.5.1 is available](https://github.com/phaze-logic/PLSweep-Releases/releases/tag/v0.5.1).** See the release notes for the activity-log bugfix, signing status, and validation limits.
 
 - [Installation and updates](installation.md) — requirements, download verification, setup, and removal.
 - [Usage](usage.md) — previews, browser cleanup, quarantine, scans, and risk boundaries.

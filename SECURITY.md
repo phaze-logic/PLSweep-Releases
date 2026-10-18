@@ -13,8 +13,8 @@ public disclosure with the maintainer after a fix is available.
 
 ## Versions and updates
 
-Use the latest stable public release when one is available. No public installer
-has been published yet, and no long-term support schedule is currently declared.
+Use the latest stable public release, currently [0.5.1](https://github.com/phaze-logic/PLSweep-Releases/releases/tag/v0.5.1).
+The 0.5.1 installer is unsigned. No long-term support schedule is currently declared.
 Release-specific limitations and fixes belong in the relevant release notes.
 
 ## Download integrity

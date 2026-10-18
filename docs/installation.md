@@ -1,6 +1,6 @@
 # Installation and updates
 
-**No public release is available yet.** When one is published, obtain it from [PL Sweep releases](https://github.com/phaze-logic/PLSweep-Releases/releases). Do not treat version examples in documentation as available downloads.
+**[PL Sweep 0.5.1 is available](https://github.com/phaze-logic/PLSweep-Releases/releases/tag/v0.5.1)** for Windows 11 x64. Download `PLSweep-Setup-0.5.1.exe` and its matching `.exe.sha256` from that release. The installer is unsigned; follow the checksum verification steps below.
 
 ## Requirements
 
@@ -48,7 +48,7 @@ The default installation folder is `C:\Program Files\PL Sweep`. The installed ap
 
 Use **Settings → Updates → Check for Updates**. The app checks the latest public release on GitHub and asks before downloading an update. It requires the matching installer and SHA-256 asset, verifies the download, then starts setup and closes the running app for replacement. Setup requires administrator permission.
 
-Until the first public release exists, a message saying no public release is available is expected. See [Troubleshooting](troubleshooting.md) for missing assets or failed verification.
+The latest stable release is 0.5.1. Existing 0.5.0 builds can detect it as an update; 0.5.1 builds should report that they are up to date. See [Troubleshooting](troubleshooting.md) for missing assets or failed verification.
 
 ## Uninstall
 

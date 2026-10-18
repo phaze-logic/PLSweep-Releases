@@ -14,9 +14,9 @@ The application source is maintained privately.
 
 ## Download and install
 
-**Public installers have not been published yet.** When a release is available,
-open [Releases](https://github.com/phaze-logic/PLSweep-Releases/releases), read its
-notes, and download `PLSweep-Setup-X.Y.Z.exe` and its matching `.exe.sha256` file.
+**PL Sweep 0.5.1 is available.** Open the [release notes](https://github.com/phaze-logic/PLSweep-Releases/releases/tag/v0.5.1)
+and download `PLSweep-Setup-0.5.1.exe` and its matching `.exe.sha256` file.
+This installer is unsigned; verify the checksum and review the signing status before installation.
 GitHub's automatic **Source code** ZIP/TAR downloads contain this documentation
 repository, not the application or an installer.
 
@@ -26,7 +26,7 @@ repository, not the application or an installer.
 - Cleanup and scanning run locally. Checking for updates requires internet access.
 
 See [installation and checksum verification](docs/installation.md). Existing users
-can check **Settings → Updates → Check for Updates** after releases are published.
+can check **Settings → Updates → Check for Updates**.
 
 ## What you can do
 
